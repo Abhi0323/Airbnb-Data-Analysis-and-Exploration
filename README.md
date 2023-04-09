@@ -1,13 +1,9 @@
 # Airbnb-Data-Analysis-and-Exploration
 
-This guided project showcases my data analysis and visualization skills using Excel and Tableau to analyze Airbnb data. Through this project, I gained hands-on experience in performing in-depth data analysis and using Tableau to create interactive dashboards for effective data visualization.
+This project showcases my data analysis and visualization skills using Excel and Tableau to analyze Airbnb data. Through this project, I gained hands-on experience in performing in-depth data analysis and using Tableau to create interactive dashboards for effective data visualization.
 
 <img width="1300" alt="img3" src="https://user-images.githubusercontent.com/112967999/230791570-917b7d6c-b6f6-4647-91fe-5d9fef266920.png">
 
-
-Getting Started:
-
-To use this project, you will need access to Microsoft Excel and Tableau. The data set used in this project can be downloaded from the Airbnb website or from a third-party data provider.
 
 Data Visualization:
 
